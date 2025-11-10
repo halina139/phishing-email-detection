@@ -1,0 +1,9 @@
+Phishing Email Dataset
+Source: https://www.kaggle.com/datasets/shantanudhakadd/phishing-email-dataset
+Total emails: 82,500
+- Spam/Phishing: 42,891
+- Legitimate: 39,595
+License: CC0
+
+Note: Dataset not included in the repository due to license restrictions.
+Users should download via Kaggle link or API.
